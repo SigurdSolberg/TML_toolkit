@@ -1,8 +1,10 @@
-## Library for topological machine learning.
+# Library for topological machine learning.
+
+### Avaliable with PyPi
+ - https://pypi.org/project/TML-toolkit/
 
 
-
-## packaging_tutorial/
+### packaging_tutorial/
 
 #####├── pyproject.toml
 
