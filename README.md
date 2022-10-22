@@ -1,8 +1,8 @@
-##Library for topological machine learning.
+## Library for topological machine learning.
 
 
 
-##packaging_tutorial/
+## packaging_tutorial/
 
 #####├── pyproject.toml
 
