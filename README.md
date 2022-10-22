@@ -1,8 +1,11 @@
 Library for topological machine learning.
 
 #####packaging_tutorial/
+
 #####├── pyproject.toml
+
 #####├── README.md
+
 #####├── setup.py
 #####├── src/
 #####│   ├── GF/
