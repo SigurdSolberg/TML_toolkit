@@ -7,16 +7,27 @@ Library for topological machine learning.
 #####├── README.md
 
 #####├── setup.py
+
 #####├── src/
+
 #####│   ├── GF/
+
 #####│   │   ├── __init__.py
+
 #####│   │   ├── GGG.py
+
 #####│   │   ├── GMM.py
+
 #####│   │   ├── GNG.py
+
 #####│   │   ├── GraphTools.py
+
 #####│   │   ├── RGM.py
+
 #####│   │   └── SOM.py
+
 #####│   ├── PersistentHomology/
+
 #####│   │   ├── __init__.py
 #####│   │   ├── FilteredSimplicialComplexes.py
 #####│   │   ├── PersistenceDiagram.py
