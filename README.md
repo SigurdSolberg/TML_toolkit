@@ -1,6 +1,8 @@
 Library for topological machine learning.
 
-#####packaging_tutorial/
+
+
+##packaging_tutorial/
 
 #####├── pyproject.toml
 
@@ -29,13 +31,23 @@ Library for topological machine learning.
 #####│   ├── PersistentHomology/
 
 #####│   │   ├── __init__.py
+
 #####│   │   ├── FilteredSimplicialComplexes.py
+
 #####│   │   ├── PersistenceDiagram.py
+
 #####│   │   ├── PersistenceImage.py
+
 #####│   │   ├── PersistenceLandscapes.py
+
 #####│   │   ├── PersLay.py
+
 #####│   │   └── TopologicalAutoencoder.py
+
 #####│   ├── Examples/
+
 #####│       └── examples.py
+
 #####├── __init__.py
+
 #####├── main.py
