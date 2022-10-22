@@ -1,5 +1,7 @@
 # Library for topological machine learning.
 
+A library developed as a project in the course INF367 - Topological Machine learning at UiB. 
+
 ### Avaliable with PyPi
  - https://pypi.org/project/TML-toolkit/
 
